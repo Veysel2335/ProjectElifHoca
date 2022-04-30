@@ -20,6 +20,8 @@ public class Q04_CreateMethodWithArray {
 
 
     public static void main(String[] args) {
+
+
         Random rand = new Random();
         int [] sayilar =new int[5];
 

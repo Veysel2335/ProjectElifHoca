@@ -5,6 +5,8 @@ public class Q06_PrintArray {
     // and prints all the element
 
     public static void main(String[] args) {
+
+
         String [] arabalar = {"Honda", "Toyota", "Porsche", "Tesla", "BMW"};
         printElements(arabalar);
 

@@ -2,13 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48bcad79-8bd1-494e-9d7c-e6917d4e631b" name="Changes" comment="17.04.2022">
-      <change afterPath="$PROJECT_DIR$/src/interviweQuestion6/Q01_FrequencyOfGivenCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviweQuestion6/Q02_AtbashCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviweQuestion6/Q03_OddIndexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviweQuestion6/Q04_SurviveMonkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviweQuestion6/Q05_ExponentialNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interviweQuestion6/Q06_DuplicateValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions8/Q05_WrapperClassTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions8/Q06_AddedOrNotTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions8/Q07_ConvertingCollectionsTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions9/Q01_MapKeysValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions9/Q02_MapKeySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions9/Q03_PrintMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions9/Q04_PrintMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions9/Q05_PrintMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions9/Q06_TreeMapFrekans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions9/Q07_StoreMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interviewQuestions9/Q08_ReadFileTxt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/interviweQuestion6/Q01_FrequencyOfGivenCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractice/interviweQuestion6/Q01_FrequencyOfGivenCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions3/Q02_PalindromeVeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interviewQuestions3/Q02_PalindromeVeys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions7/Q01_UseContinue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interviewQuestions7/Q01_UseContinue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions7/Q02_TreeShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interviewQuestions7/Q02_TreeShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions7/Q03_IFElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interviewQuestions7/Q03_IFElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions7/Q04_CreateMethodWithArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interviewQuestions7/Q04_CreateMethodWithArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions7/Q05_Printing2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interviewQuestions7/Q05_Printing2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions7/Q06_PrintArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interviewQuestions7/Q06_PrintArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviewQuestions8/Q04_MapTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interviewQuestions8/Q04_MapTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interviweQuestion6/Q01_FrequencyOfGivenCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interviweQuestion6/Q01_FrequencyOfGivenCharacter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +65,13 @@
       <recent name="D:\ElifHoca\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q09_ForLoop04">
-    <configuration name="Q03_OddIndexNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviweQuestion6.Q03_OddIndexNumber" />
+  <component name="RunManager" selected="Application.Q08_ReadFileTxt">
+    <configuration name="Q04_PrintMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewQuestions9.Q04_PrintMap" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interviweQuestion6.*" />
+          <option name="PATTERN" value="interviewQuestions9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q04_SurviveMonkey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviweQuestion6.Q04_SurviveMonkey" />
+    <configuration name="Q05_PrintMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewQuestions9.Q05_PrintMap" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interviweQuestion6.*" />
+          <option name="PATTERN" value="interviewQuestions9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q05_ExponentialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviweQuestion6.Q05_ExponentialNumber" />
+    <configuration name="Q06_TreeMapFrekans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewQuestions9.Q06_TreeMapFrekans" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interviweQuestion6.*" />
+          <option name="PATTERN" value="interviewQuestions9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q06_DuplicateValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interviweQuestion6.Q06_DuplicateValue" />
+    <configuration name="Q07_StoreMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewQuestions9.Q07_StoreMap" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interviweQuestion6.*" />
+          <option name="PATTERN" value="interviewQuestions9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q09_ForLoop04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice_basic_day03.Q09_ForLoop04" />
+    <configuration name="Q08_ReadFileTxt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interviewQuestions9.Q08_ReadFileTxt" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice_basic_day03.*" />
+          <option name="PATTERN" value="interviewQuestions9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q09_ForLoop04" />
-        <item itemvalue="Application.Q06_DuplicateValue" />
-        <item itemvalue="Application.Q05_ExponentialNumber" />
-        <item itemvalue="Application.Q04_SurviveMonkey" />
-        <item itemvalue="Application.Q03_OddIndexNumber" />
+        <item itemvalue="Application.Q08_ReadFileTxt" />
+        <item itemvalue="Application.Q07_StoreMap" />
+        <item itemvalue="Application.Q06_TreeMapFrekans" />
+        <item itemvalue="Application.Q05_PrintMap" />
+        <item itemvalue="Application.Q04_PrintMap" />
       </list>
     </recent_temporary>
   </component>

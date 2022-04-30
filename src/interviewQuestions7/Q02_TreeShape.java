@@ -21,6 +21,8 @@ public class Q02_TreeShape {
      */
 
     public static void main(String[] args) {
+
+
         Scanner scan = new Scanner(System.in);
         System.out.print("agacin tac uzunlugunu giriniz :");
         int tacUzunluk = scan.nextInt();

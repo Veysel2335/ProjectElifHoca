@@ -8,6 +8,8 @@ public class Q01_UseContinue {
         // sekilde yazdiriniz, bosluk veya a harfi geldiginde bunlari yazmasin
 
     public static void main(String[] args) {
+
+
         Scanner scan = new Scanner(System.in);
         System.out.print("bir string giriniz :");
         String ifade = scan.nextLine();

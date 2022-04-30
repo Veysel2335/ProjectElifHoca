@@ -14,7 +14,7 @@ public class Q01_FrequencyOfGivenCharacter {
 
         }
 
-    private static void frekans(String str) {
+    public static void frekans(String str) {
             int sayac=0;
             String output="";
         for (int i = 0; i <str.length() ; i++) {//i kiyas edilen harf
